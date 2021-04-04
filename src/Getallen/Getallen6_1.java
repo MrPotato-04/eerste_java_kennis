@@ -9,7 +9,7 @@ public class Getallen6_1 extends Applet {
 
     public void init() {
         geld = 113;
-        geldGesplit = (double) geld/4;
+        geldGesplit = (double)  geld/4;
 
     }
 
