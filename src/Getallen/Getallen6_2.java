@@ -1,5 +1,7 @@
+package Getallen;
 import java.awt.*;
 import java.applet.*;
+
 
 public class Getallen6_2 extends Applet{
     int seconde;

@@ -1,6 +1,6 @@
+package Getallen;
 import java.awt.*;
 import java.applet.*;
-
 
 public class Getallen6_1 extends Applet {
     int geld;

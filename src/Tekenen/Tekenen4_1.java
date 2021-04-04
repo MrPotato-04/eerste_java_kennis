@@ -1,3 +1,4 @@
+package Tekenen;
 import java.awt.*;
 import java.applet.*;
 
