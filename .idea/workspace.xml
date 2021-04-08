@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_5.java" afterDir="false" />
+    <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="Edit">
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_3En4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beslissingen/Beslissingen_Praktijk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen_Praktijk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,72 +51,63 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\anton\Java Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Herhaling" />
       <recent name="Beslissingen" />
       <recent name="KnoppenEnTextvakken" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Beslissingen10_5">
-    <configuration name="Beslissingen10_1En2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_1En2" />
+  <component name="RunManager" selected="Applet.Herhaling11_5">
+    <configuration name="Beslissingen_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen_Praktijk" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beslissingen10_3En4" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_3En4" />
+    <configuration name="Herhaling11_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_1" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beslissingen10_5" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_5" />
+    <configuration name="Herhaling11_2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_2" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnoppenEnTekstvakken... (3)" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KnoppenEnTextvakken.KnoppenEnTekstvakken8_3" />
+    <configuration name="Herhaling11_4" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_4" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnoppenEnTekstvakken... (4)" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KnoppenEnTextvakken.KnoppenEnTekstvakken_Praktijk" />
+    <configuration name="Herhaling11_5" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_5" />
       <module name="eerste_java_kennis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Beslissingen10_5" />
-        <item itemvalue="Applet.Beslissingen10_3En4" />
-        <item itemvalue="Applet.Beslissingen10_1En2" />
-        <item itemvalue="Applet.KnoppenEnTekstvakken... (4)" />
-        <item itemvalue="Applet.KnoppenEnTekstvakken... (3)" />
+        <item itemvalue="Applet.Herhaling11_5" />
+        <item itemvalue="Applet.Herhaling11_4" />
+        <item itemvalue="Applet.Herhaling11_2" />
+        <item itemvalue="Applet.Herhaling11_1" />
+        <item itemvalue="Applet.Beslissingen_Praktijk" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +142,7 @@
       <workItem from="1617867805238" duration="280000" />
       <workItem from="1617868099270" duration="499000" />
       <workItem from="1617868614314" duration="2611000" />
-      <workItem from="1617871361852" duration="1128000" />
+      <workItem from="1617871361852" duration="10167000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1617530724433</created>
@@ -157,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617530724433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Edit">
+      <created>1617872722158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617872722158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +178,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
