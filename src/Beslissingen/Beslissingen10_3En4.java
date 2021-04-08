@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Beslissingen10_3 extends Applet {
+public class Beslissingen10_3En4 extends Applet {
     TextField tekstvak, tekstvak1;
     Label label;
     String dag1,dag2,tekst, dagen,schrikkelJaar,dagF;
@@ -107,7 +107,7 @@ public class Beslissingen10_3 extends Applet {
     }
     class Tekstvak1Listener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            jaartal = Integer.parseInt(tekstvak1.getText());
+            jaartal = Double.parseDouble(tekstvak1.getText());
             if ( (jaartal % 4 == 0 && !(jaartal % 100 == 0)) ||
                     jaartal % 400 == 0 ) {
                 dagF = ""+29;

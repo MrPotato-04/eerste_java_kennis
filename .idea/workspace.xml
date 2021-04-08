@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen10_3En4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Beslissingen10_3">
+  <component name="RunManager" selected="Applet.Beslissingen10_5">
     <configuration name="Beslissingen10_1En2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_1En2" />
       <module name="eerste_java_kennis" />
@@ -66,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beslissingen10_3" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_3" />
+    <configuration name="Beslissingen10_3En4" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_3En4" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnoppenEnTekstvakken... (2)" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KnoppenEnTextvakken.KnoppenEnTekstvakken8_2" />
+    <configuration name="Beslissingen10_5" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen10_5" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,13 +96,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Beslissingen10_3" />
+        <item itemvalue="Applet.Beslissingen10_5" />
+        <item itemvalue="Applet.Beslissingen10_3En4" />
         <item itemvalue="Applet.Beslissingen10_1En2" />
         <item itemvalue="Applet.KnoppenEnTekstvakken... (4)" />
         <item itemvalue="Applet.KnoppenEnTekstvakken... (3)" />
-        <item itemvalue="Applet.KnoppenEnTekstvakken... (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +145,10 @@
       <workItem from="1617793085164" duration="5985000" />
       <workItem from="1617814431723" duration="1024000" />
       <workItem from="1617819488477" duration="178000" />
+      <workItem from="1617867805238" duration="280000" />
+      <workItem from="1617868099270" duration="499000" />
+      <workItem from="1617868614314" duration="2611000" />
+      <workItem from="1617871361852" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1617530724433</created>
