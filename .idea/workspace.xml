@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="Edit">
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling_Praktijk_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling_Praktijk_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beslissingen/Beslissingen_Praktijk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beslissingen/Beslissingen_Praktijk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,59 +61,74 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Herhaling" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\anton\Java Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tabellen" />
       <recent name="Herhaling" />
       <recent name="Beslissingen" />
       <recent name="KnoppenEnTextvakken" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Herhaling11_5">
-    <configuration name="Beslissingen_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beslissingen.Beslissingen_Praktijk" />
+  <component name="RunManager" selected="Applet.Tabellen12_6">
+    <configuration name="Herhaling_Praktijk_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling_Praktijk_1" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herhaling11_1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_1" />
+    <configuration name="Herhaling_Praktijk_2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling_Praktijk_2" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herhaling11_2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_2" />
+    <configuration name="Tabellen12_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_1" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herhaling11_4" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_4" />
+    <configuration name="Tabellen12_2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_2" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herhaling11_5" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling11_5" />
+    <configuration name="Tabellen12_6" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_6" />
       <module name="eerste_java_kennis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Herhaling11_5" />
-        <item itemvalue="Applet.Herhaling11_4" />
-        <item itemvalue="Applet.Herhaling11_2" />
-        <item itemvalue="Applet.Herhaling11_1" />
-        <item itemvalue="Applet.Beslissingen_Praktijk" />
+        <item itemvalue="Applet.Tabellen12_6" />
+        <item itemvalue="Applet.Tabellen12_2" />
+        <item itemvalue="Applet.Tabellen12_1" />
+        <item itemvalue="Applet.Herhaling_Praktijk_2" />
+        <item itemvalue="Applet.Herhaling_Praktijk_1" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +164,12 @@
       <workItem from="1617868099270" duration="499000" />
       <workItem from="1617868614314" duration="2611000" />
       <workItem from="1617871361852" duration="10167000" />
+      <workItem from="1617898035156" duration="321000" />
+      <workItem from="1618218316072" duration="2130000" />
+      <workItem from="1618251150060" duration="2999000" />
+      <workItem from="1618302371769" duration="7931000" />
+      <workItem from="1618332406351" duration="1547000" />
+      <workItem from="1618381728818" duration="12628000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1617530724433</created>
