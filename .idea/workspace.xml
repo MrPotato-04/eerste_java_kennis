@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="Edit">
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling11_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling_Praktijk_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herhaling/Herhaling_Praktijk_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes13_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes13_2En3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes_Praktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4en5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen_Praktijk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -68,44 +65,44 @@
       <recent name="C:\Users\anton\Java Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Methodes" />
       <recent name="Tabellen" />
       <recent name="Herhaling" />
       <recent name="Beslissingen" />
       <recent name="KnoppenEnTextvakken" />
-      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Tabellen12_6">
-    <configuration name="Herhaling_Praktijk_1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling_Praktijk_1" />
+  <component name="RunManager" selected="Applet.Methodes_Praktijk">
+    <configuration name="Methodes13_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_1" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herhaling_Praktijk_2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herhaling.Herhaling_Praktijk_2" />
+    <configuration name="Methodes13_2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_2" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tabellen12_1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_1" />
+    <configuration name="Methodes13_2En3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_2En3" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tabellen12_2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_2" />
+    <configuration name="Methodes_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes_Praktijk" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tabellen12_6" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen12_6" />
+    <configuration name="Tabellen_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen_Praktijk" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Tabellen12_6" />
-        <item itemvalue="Applet.Tabellen12_2" />
-        <item itemvalue="Applet.Tabellen12_1" />
-        <item itemvalue="Applet.Herhaling_Praktijk_2" />
-        <item itemvalue="Applet.Herhaling_Praktijk_1" />
+        <item itemvalue="Applet.Methodes_Praktijk" />
+        <item itemvalue="Applet.Methodes13_2En3" />
+        <item itemvalue="Applet.Methodes13_2" />
+        <item itemvalue="Applet.Methodes13_1" />
+        <item itemvalue="Applet.Tabellen_Praktijk" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +166,21 @@
       <workItem from="1618251150060" duration="2999000" />
       <workItem from="1618302371769" duration="7931000" />
       <workItem from="1618332406351" duration="1547000" />
-      <workItem from="1618381728818" duration="12628000" />
+      <workItem from="1618381728818" duration="14421000" />
+      <workItem from="1618476517010" duration="5164000" />
+      <workItem from="1618485652482" duration="4432000" />
+      <workItem from="1618660193759" duration="5025000" />
+      <workItem from="1618665285565" duration="209000" />
+      <workItem from="1618665506312" duration="446000" />
+      <workItem from="1618665965236" duration="161000" />
+      <workItem from="1618666136930" duration="1964000" />
+      <workItem from="1618823132456" duration="1297000" />
+      <workItem from="1618908158939" duration="1128000" />
+      <workItem from="1618911090940" duration="1540000" />
+      <workItem from="1618928670498" duration="139000" />
+      <workItem from="1618928900945" duration="787000" />
+      <workItem from="1618939071953" duration="1446000" />
+      <workItem from="1618986512584" duration="7232000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1617530724433</created>

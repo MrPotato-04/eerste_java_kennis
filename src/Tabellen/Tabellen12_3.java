@@ -1,24 +1,35 @@
 package Tabellen;
 
-import KnoppenEnTextvakken.KnoppenEnTekstvakken_Praktijk;
 
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.*;
 
 public class Tabellen12_3 extends Applet {
-    TextField textvak1,textvak2,textvak3,textvak4,textvak5;
+
+    TextField[] textvak;
     Button knop;
+    int columns = 5;
+    int[] num;
+
+
+
 
     public void init() {
-        textvak1 = new TextField("", 10);
-        textvak2 = new TextField("", 10);
-        textvak3 = new TextField("", 10);
-        textvak4 = new TextField("", 10);
-        textvak5 = new TextField("", 10);
+        num = new int[5];
+
+
+        textvak = new TextField[5];
+        for (int i = 0; i < textvak.length; i++) {
+            textvak[i] = new TextField("",columns);
+            add(textvak[i]);
+        }
+
         knop = new Button("ok");
         knop.addActionListener(new KnopListener());
+        add(knop);
 
 
         }
@@ -28,11 +39,22 @@ public class Tabellen12_3 extends Applet {
 
 
     public void paint(Graphics g) {
-
     }
 
     class KnopListener implements ActionListener {
         public void actionPerformed( ActionEvent e ) {
+            for (int i = 0; i < textvak.length; i++) {
+                num[i] = Integer.parseInt(textvak[i].getText());
+            }
+            //sort
+            Arrays.sort(num);
+            //paste back
+            for (int i = 0; i < textvak.length; i++) {
+                textvak[i].setText(""+num[i]);
+            }
+
+            repaint();
+
         }
     }
 
