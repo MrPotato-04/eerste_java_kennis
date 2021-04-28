@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d428ccb-7011-453f-b719-263c65168d83" name="Default Changelist" comment="Edit">
-      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes13_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes13_2En3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes_Praktijk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4en5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen_Praktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methodes/Methodes_ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verdieping/Verdieping14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verdieping/Verdieping14_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verdieping/Verdieping_Praktijk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabellen/Tabellen12_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methodes/Methodes_Praktijk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methodes/Methodes_Praktijk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Verdieping/Image" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -65,30 +62,16 @@
       <recent name="C:\Users\anton\Java Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Verdieping" />
       <recent name="Methodes" />
       <recent name="Tabellen" />
       <recent name="Herhaling" />
       <recent name="Beslissingen" />
-      <recent name="KnoppenEnTextvakken" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.Methodes_Praktijk">
-    <configuration name="Methodes13_1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_1" />
-      <module name="eerste_java_kennis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methodes13_2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_2" />
-      <module name="eerste_java_kennis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methodes13_2En3" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes13_2En3" />
+  <component name="RunManager" selected="Applet.Verdieping_Praktijk">
+    <configuration name="Methodes_ChessBoard" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methodes.Methodes_ChessBoard" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tabellen_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tabellen.Tabellen_Praktijk" />
+    <configuration name="Verdieping14_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verdieping.Verdieping14_1" />
+      <module name="eerste_java_kennis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verdieping14_2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verdieping.Verdieping14_2" />
+      <module name="eerste_java_kennis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verdieping_Praktijk" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verdieping.Verdieping_Praktijk" />
       <module name="eerste_java_kennis" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Verdieping_Praktijk" />
+        <item itemvalue="Applet.Verdieping14_2" />
+        <item itemvalue="Applet.Verdieping14_1" />
+        <item itemvalue="Applet.Methodes_ChessBoard" />
         <item itemvalue="Applet.Methodes_Praktijk" />
-        <item itemvalue="Applet.Methodes13_2En3" />
-        <item itemvalue="Applet.Methodes13_2" />
-        <item itemvalue="Applet.Methodes13_1" />
-        <item itemvalue="Applet.Tabellen_Praktijk" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +177,9 @@
       <workItem from="1618928670498" duration="139000" />
       <workItem from="1618928900945" duration="787000" />
       <workItem from="1618939071953" duration="1446000" />
-      <workItem from="1618986512584" duration="7232000" />
+      <workItem from="1618986512584" duration="16482000" />
+      <workItem from="1619198896879" duration="305000" />
+      <workItem from="1619430658184" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1617530724433</created>

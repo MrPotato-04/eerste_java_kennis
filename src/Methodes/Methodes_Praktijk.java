@@ -12,7 +12,7 @@ public class Methodes_Praktijk extends Applet {
 
     }
     public void paint(Graphics g) {
-        drawForrest(g,5,3);
+        drawForrest(g,20,3);
 
     }
 
