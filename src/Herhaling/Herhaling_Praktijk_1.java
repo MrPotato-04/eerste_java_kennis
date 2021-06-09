@@ -8,17 +8,17 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Herhaling_Praktijk_1 extends Applet {
-    int teller, a, b, c, x, y;
+    int teller, a, c, y;
     Button knop;
     TextField textvak;
 
     public void init() {
-        b = 1;
         a = 1;
         knop = new Button("ok");
         textvak = new TextField("",20);
-        textvak.addActionListener(new KnopListener2());
+        knop.addActionListener(new KnopListener2());
         add(textvak);
+        add(knop);
         y = 10;
 
     }
@@ -29,7 +29,7 @@ public class Herhaling_Praktijk_1 extends Applet {
             y += 15;
             c = a*teller;
             g.drawString("" + a + "*" + teller + "=" + c, 10, y);
-            b ++;
+
 
 
         }
